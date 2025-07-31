@@ -69,7 +69,7 @@ Follow these steps to set up and run the project! 🚀
   jupyter notebook ann_models.ipynb
   ```
 
-1. **Access the System**:
+4. **Access the System**:
 
    - Open your browser to explore the analysis or app at `http://localhost:8501`! 🎉
 
