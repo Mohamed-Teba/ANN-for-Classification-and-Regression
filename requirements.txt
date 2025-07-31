@@ -1,0 +1,5 @@
+- numpy &gt;= 1.24.0
+- tensorflow &gt;= 2.12.0
+- scikit-learn &gt;= 1.2.0
+- matplotlib &gt;= 3.7.0
+- seaborn &gt;= 0.12.0
